@@ -1,0 +1,117 @@
+
+Absl-py==2.1.0
+Accelerate==1.4.0
+Aiohappyeyeballs==2.4.6
+Aiohttp==3.11.12
+Aiosignal==1.3.2
+Annotated-types==0.7.0
+Asttokens==3.0.0
+Async-timeout==5.0.1
+Attrs==25.1.0
+Certifi==2025.1.31
+Charset-normalizer==3.4.1
+Comm==0.2.2
+Contourpy==1.3.1
+Cycler==0.12.1
+Datasets==3.3.1
+Debugpy==1.8.12
+Decorator==5.2.1
+Deepspeed==0.16.3
+Dill==0.3.8
+Einops==0.8.1
+Exceptiongroup==1.2.2
+Executing==2.2.0
+Filelock==3.13.1
+Fonttools==4.56.0
+Frozenlist==1.5.0
+Fsspec==2024.6.1
+Grpcio==1.70.0
+Hjson==3.1.0
+Huggingface-hub==0.28.1
+Idna==3.10
+Ipykernel==6.29.5
+Ipython==8.32.0
+Ipywidgets==8.1.5
+Jedi==0.19.2
+Jinja 2==3.1.4
+Joblib==1.4.2
+Jupyter_client==8.6.3
+Jupyter_core==5.7.2
+Jupyterlab_widgets==3.0.13
+Kiwisolver==1.4.8
+Markdown==3.7
+MarkupSafe==2.1.5
+Matplotlib==3.10.0
+Matplotlib-inline==0.1.7
+Mpmath==1.3.0
+Msgpack==1.1.0
+Multidict==6.1.0
+Multiprocess==0.70.16
+Nest-asyncio==1.6.0
+Networkx==3.3
+Ninja==1.11.1.3
+Numpy==2.1.2
+Nvidia-cublas-cu 11==11.11.3.6
+Nvidia-cuda-cupti-cu 11==11.8.87
+Nvidia-cuda-nvrtc-cu 11==11.8.89
+Nvidia-cuda-runtime-cu 11==11.8.89
+Nvidia-cudnn-cu 11==9.1.0.70
+Nvidia-cufft-cu 11==10.9.0.58
+Nvidia-curand-cu 11==10.3.0.86
+Nvidia-cusolver-cu 11==11.4.1.48
+Nvidia-cusparse-cu 11==11.7.5.86
+Nvidia-ml-py==12.570.86
+Nvidia-nccl-cu 11==2.21.5
+Nvidia-nvtx-cu 11==11.8.86
+Packaging==24.2
+Pandas==2.2.3
+Parso==0.8.4
+Peft==0.14.0
+Pexpect==4.9.0
+Pillow==11.0.0
+Platformdirs==4.3.6
+Prompt_toolkit==3.0.50
+Propcache==0.2.1
+Protobuf==5.29.3
+Psutil==7.0.0
+Ptyprocess==0.7.0
+Pure_eval==0.2.3
+Py-cpuinfo==9.0.0
+Pyarrow==19.0.0
+Pydantic==2.10.6
+Pydantic_core==2.27.2
+Pygments==2.19.1
+Pyparsing==3.2.1
+Python-dateutil==2.9.0. Post 0
+Pytz==2025.1
+PyYAML==6.0.2
+Pyzmq==26.2.1
+Regex==2024.11.6
+Requests==2.32.3
+Safetensors==0.5.2
+Scikit-learn==1.6.1
+Scipy==1.15.2
+Sentencepiece==0.2.0
+Six==1.17.0
+Stack-data==0.6.3
+Sympy==1.13.1
+Tensorboard==2.19.0
+Tensorboard-data-server==0.7.2
+Threadpoolctl==3.5.0
+Tokenizers==0.21.0
+Torch==2.6.0+cu 118
+Torchaudio==2.6.0+cu 118
+Torchvision==0.21.0+cu 118
+Tornado==6.4.2
+Tqdm==4.67.1
+Traitlets==5.14.3
+Transformers==4.49.0
+Triton==3.2.0
+Typing_extensions==4.12.2
+Tzdata==2025.1
+Urllib 3==2.3.0
+Wcwidth==0.2.13
+Werkzeug==3.1.3
+Widgetsnbextension==4.0.13
+Xxhash==3.5.0
+Yarl==1.18.3
